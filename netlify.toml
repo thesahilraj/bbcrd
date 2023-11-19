@@ -6,3 +6,4 @@
 [template.environment]
   NAME = "enter Name of the receiver"
   PIC = "enter web url of the receiver's image"
+  SCROLL_MSG='sample-scroll.txt'
